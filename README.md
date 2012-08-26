@@ -2,4 +2,4 @@ Personal project to develop my jQuery skills, which will be constantly built upo
 
 Uses [fancyapp's fancyBox](https://github.com/fancyapps/fancyBox) for the gallery lightbox, the rest is written by myself.
 
-A demo can be seen [here](http://mitchward.co.uk/plugins/slider/).
+A demo can be seen [here](http://mitchward.co.uk/plugins/facebook-gallery/).
